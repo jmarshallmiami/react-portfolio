@@ -1,0 +1,12 @@
+/*apply styling to overall page to override default browser styling*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color: #feaf1d;
+    --secondary-color: #05e001;
+    --tertiary-color: #39a6b2;
+}
